@@ -17,5 +17,10 @@ a {
     color: rgb(246, 246, 246);
 }
 
-
+#alheading {
+    color: aquamarine;
+    font-size: 30px;
+    font-weight: 100;
+    
+}
 
