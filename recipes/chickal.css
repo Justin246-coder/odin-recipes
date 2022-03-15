@@ -18,9 +18,33 @@ a {
 }
 
 #alheading {
-    color: aquamarine;
+    color: #ff00ff;
     font-size: 30px;
-    font-weight: 100;
+    font-weight: 200;
+}
+
+h1.chick-heading {
+    color: #ff00ff;
+    font-weight: 200;
     
+}
+
+p {
+    color: rgb(175, 167, 167);
+    font-weight: 100;
+}
+
+h2,
+.cook,
+.cooking {
+    color: #34e7ff;
+    font-weight: 100;
+}
+
+div {
+    color: rgb(175, 167, 167);
+    font-weight: 100;
+    font-size: 20px;
+    align-content: center;
 }
 
