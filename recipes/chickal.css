@@ -14,36 +14,43 @@ p {
 }
 
 a {
-    color: rgb(246, 246, 246);
+    color: rgb(255, 217, 0);
+    font-size: larger;
+
 }
 
 #alheading {
-    color: #ff00ff;
+    color: rgb(255, 217, 0);
     font-size: 30px;
     
 }
 
 h1.chick-heading {
-    color: #ff00ff;
+    color: rgb(255, 217, 0);
     
     
 }
 
 p {
-    color: rgb(175, 167, 167);
+    color: rgb(255, 217, 0)
     
 }
 
 h2,
 .cook,
 .cooking {
-    color: #34e7ff;
+    color: #ff00ff
     
 }
 
 div {
-    color: rgb(175, 167, 167);
+    color: rgb(255, 217, 0);
     font-size: 20px;
     align-content: center;
+}
+
+ul {
+    color: rgb(255, 217, 0);
+    font-size: larger;
 }
 
