@@ -39,7 +39,9 @@ p {
 h2,
 .cook,
 .cooking {
-    color: #ff00ff
+    color: #ff00ff;
+    font-size: 30px;
+    
     
 }
 
