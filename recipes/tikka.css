@@ -24,6 +24,41 @@ p {
     font-size: 30px;
 }
 
+ul {
+    color: rgb(255, 217, 0);
+    font-size: larger;
+}
+
+body {
+    background-color: #000000;
+}
+
+a {
+    color: rgb(255, 217, 0);
+    font-size: larger;
+}
+
+p .mas1 {
+    color: #ff00ff;
+}
+
+.mas2 {
+    color: #ff00ff;
+}
+
+.mas3 {
+    color: #ff00ff;
+}
+
+.mas4 {
+    color: #ff00ff;
+}
+
+.mas5 {
+    color: #ff00ff;
+}
+
+
 
 
 
