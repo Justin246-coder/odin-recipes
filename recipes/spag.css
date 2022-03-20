@@ -32,3 +32,10 @@ ol {
 body {
     background-color: #000000;
 }
+
+.sauce1,
+.sauce2,
+.sauce3,
+.sauce4 {
+    color: #ff00ff;
+}
